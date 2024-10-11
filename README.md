@@ -51,13 +51,13 @@ Pour exécuter les tests :
    ```
 
 ## Contribution
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
+ - Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
 
 ## Licence
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+ - Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## Auteur
-CELIK
+ - CELIK
 
 ## Remerciements
 - Merci à la communauté Rust pour ses excellents outils et sa documentation.
